@@ -1,0 +1,11 @@
+#ignorar archivos a la hora de subir a GitHub
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+
+*.log
+
+.DS_Store
